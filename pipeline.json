@@ -1,0 +1,9 @@
+{
+  "steps": [
+    "./seperator.js",
+    "./verifier.js",
+    "./b_remover.js",
+    "./checker.js",
+    "./i_remover.js"
+  ]
+}
