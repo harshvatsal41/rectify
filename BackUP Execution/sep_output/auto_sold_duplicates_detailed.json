@@ -1,0 +1,1066 @@
+[
+  {
+    "batchId": "69d33dc74ede227dce4c26e5",
+    "batchNumber": "HPDL24111",
+    "batchProduct": "6954c460965a1ce93d0af5f7",
+    "totalInventories": 2,
+    "inventories": [
+      {
+        "inventoryId": "69d33e064ede227dce4c2b62",
+        "product": "6954c460965a1ce93d0af5f7",
+        "batchProduct": "6954c460965a1ce93d0af5f7",
+        "batchId": "69d33dc74ede227dce4c26e5",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 341.21,
+          "saleRate": 487.93,
+          "schemeSaleRate": 487.93,
+          "quantity": 30,
+          "vendor": "6923ca29385a8494efbb19c3",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 341.21,
+          "saleRate": 487.93,
+          "schemeSaleRate": 487.93,
+          "supplier": "6923ca29385a8494efbb19c3",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69dcb98a55d55f91de1f0a23",
+          "69e607e6605eeba0f33a6d24"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c2b64",
+        "product": "6954c460965a1ce93d0af5f7",
+        "batchProduct": "6954c460965a1ce93d0af5f7",
+        "batchId": "69d33dc74ede227dce4c26e5",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 341.21,
+          "saleRate": 487.93,
+          "schemeSaleRate": 487.93,
+          "quantity": 30,
+          "vendor": "6923ca29385a8494efbb19c3",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 341.21,
+          "saleRate": 487.93,
+          "schemeSaleRate": 487.93,
+          "supplier": "6923ca29385a8494efbb19c3",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69df1407c2b3d00e93ddb9a7"
+        ]
+      }
+    ]
+  },
+  {
+    "batchId": "69d33dc94ede227dce4c270e",
+    "batchNumber": "129",
+    "batchProduct": "69ce43452b2deb9f9bbb6fce",
+    "totalInventories": 2,
+    "inventories": [
+      {
+        "inventoryId": "69d33e064ede227dce4c2bc4",
+        "product": "69ce43452b2deb9f9bbb6fce",
+        "batchProduct": "69ce43452b2deb9f9bbb6fce",
+        "batchId": "69d33dc94ede227dce4c270e",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 81,
+          "saleRate": 89.1,
+          "schemeSaleRate": 89.1,
+          "quantity": 19,
+          "vendor": "6923ca35385a8494efbb1da4",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 81,
+          "saleRate": 89.1,
+          "schemeSaleRate": 89.1,
+          "supplier": "6923ca35385a8494efbb1da4",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69e70290605eeba0f3425ff4"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c2bc8",
+        "product": "69ce43452b2deb9f9bbb6fca",
+        "batchProduct": "69ce43452b2deb9f9bbb6fce",
+        "batchId": "69d33dc94ede227dce4c270e",
+        "status": [
+          "WRONG_BATCH_PRODUCT_MISMATCH",
+          "SUSPICIOUS_PRICE_MISMATCH"
+        ],
+        "inventoryData": {
+          "rawPrice": 56.59,
+          "saleRate": 62.25,
+          "schemeSaleRate": 62.25,
+          "quantity": 50,
+          "vendor": "6923ca35385a8494efbb1da4",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 81,
+          "saleRate": 89.1,
+          "schemeSaleRate": 89.1,
+          "supplier": "6923ca35385a8494efbb1da4",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69dddcd1c2b3d00e93ae8b2b"
+        ]
+      }
+    ]
+  },
+  {
+    "batchId": "69d33dcc4ede227dce4c2740",
+    "batchNumber": "1255764",
+    "batchProduct": "69251a72496994f2855ca3f8",
+    "totalInventories": 2,
+    "inventories": [
+      {
+        "inventoryId": "69d33e064ede227dce4c2c2e",
+        "product": "69251a72496994f2855ca3f8",
+        "batchProduct": "69251a72496994f2855ca3f8",
+        "batchId": "69d33dcc4ede227dce4c2740",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 11.5,
+          "saleRate": 12.65,
+          "schemeSaleRate": 12.65,
+          "quantity": 500,
+          "vendor": "6923ca3a385a8494efbb1f95",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 11.5,
+          "saleRate": 12.65,
+          "schemeSaleRate": 12.65,
+          "supplier": "6923ca3a385a8494efbb1f95",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69da155b55d55f91def3b972",
+          "69ddc8ffc2b3d00e93a57443",
+          "69ddf36fc2b3d00e93b56939"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c2c3c",
+        "product": "69251a72496994f2855ca3f8",
+        "batchProduct": "69251a72496994f2855ca3f8",
+        "batchId": "69d33dcc4ede227dce4c2740",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 11.5,
+          "saleRate": 12.65,
+          "schemeSaleRate": 12.65,
+          "quantity": 500,
+          "vendor": "6923ca3a385a8494efbb1f95",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 11.5,
+          "saleRate": 12.65,
+          "schemeSaleRate": 12.65,
+          "supplier": "6923ca3a385a8494efbb1f95",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69db68d655d55f91de072e61"
+        ]
+      }
+    ]
+  },
+  {
+    "batchId": "69d33dce4ede227dce4c275b",
+    "batchNumber": "***",
+    "batchProduct": "6944f9a5609c8b24f4a27013",
+    "totalInventories": 2,
+    "inventories": [
+      {
+        "inventoryId": "69d33e064ede227dce4c2ca0",
+        "product": "6944f9a5609c8b24f4a27013",
+        "batchProduct": "6944f9a5609c8b24f4a27013",
+        "batchId": "69d33dce4ede227dce4c275b",
+        "status": [
+          "SUSPICIOUS_PRICE_MISMATCH"
+        ],
+        "inventoryData": {
+          "rawPrice": 94,
+          "saleRate": 103.4,
+          "schemeSaleRate": 103.4,
+          "quantity": 5,
+          "vendor": "6923ca42385a8494efbb22a5",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 120,
+          "saleRate": 132,
+          "schemeSaleRate": 132,
+          "supplier": "6923ca42385a8494efbb2266",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69df2a90c2b3d00e93e5c4ba"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c2f00",
+        "product": "69ce432a2b2deb9f9bbb69f7",
+        "batchProduct": "6944f9a5609c8b24f4a27013",
+        "batchId": "69d33dce4ede227dce4c275b",
+        "status": [
+          "WRONG_BATCH_PRODUCT_MISMATCH",
+          "SUSPICIOUS_PRICE_MISMATCH"
+        ],
+        "inventoryData": {
+          "rawPrice": 1350,
+          "saleRate": 1485,
+          "schemeSaleRate": 1485,
+          "quantity": 1,
+          "vendor": "6923ca4f385a8494efbb27cf",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 120,
+          "saleRate": 132,
+          "schemeSaleRate": 132,
+          "supplier": "6923ca42385a8494efbb2266",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69d8e94e274eb4d2a16f8790"
+        ]
+      }
+    ]
+  },
+  {
+    "batchId": "69d33dc94ede227dce4c270b",
+    "batchNumber": "**",
+    "batchProduct": "69251a79496994f2855ca512",
+    "totalInventories": 6,
+    "inventories": [
+      {
+        "inventoryId": "69d33e064ede227dce4c2cb2",
+        "product": "69251a79496994f2855ca512",
+        "batchProduct": "69251a79496994f2855ca512",
+        "batchId": "69d33dc94ede227dce4c270b",
+        "status": [
+          "SUSPICIOUS_PRICE_MISMATCH"
+        ],
+        "inventoryData": {
+          "rawPrice": 89,
+          "saleRate": 97.9,
+          "schemeSaleRate": 97.9,
+          "quantity": 10,
+          "vendor": "6923ca42385a8494efbb22a5",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 89,
+          "saleRate": 99,
+          "schemeSaleRate": 99,
+          "supplier": "6923ca35385a8494efbb1da4",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69df2a90c2b3d00e93e5c4ba",
+          "69e351d36f6c2063aa2093d8"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c2e58",
+        "product": "69ce433b2b2deb9f9bbb6db4",
+        "batchProduct": "69251a79496994f2855ca512",
+        "batchId": "69d33dc94ede227dce4c270b",
+        "status": [
+          "WRONG_BATCH_PRODUCT_MISMATCH",
+          "SUSPICIOUS_PRICE_MISMATCH"
+        ],
+        "inventoryData": {
+          "rawPrice": 8.5,
+          "saleRate": 9.35,
+          "schemeSaleRate": 9.35,
+          "quantity": 20,
+          "vendor": "6923ca4d385a8494efbb2712",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 89,
+          "saleRate": 99,
+          "schemeSaleRate": 99,
+          "supplier": "6923ca35385a8494efbb1da4",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69de2d1ac2b3d00e93d233b4"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c2e5a",
+        "product": "69ce43362b2deb9f9bbb6c84",
+        "batchProduct": "69251a79496994f2855ca512",
+        "batchId": "69d33dc94ede227dce4c270b",
+        "status": [
+          "WRONG_BATCH_PRODUCT_MISMATCH",
+          "SUSPICIOUS_PRICE_MISMATCH"
+        ],
+        "inventoryData": {
+          "rawPrice": 17.2,
+          "saleRate": 18.92,
+          "schemeSaleRate": 18.92,
+          "quantity": 20,
+          "vendor": "6923ca4d385a8494efbb2712",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 89,
+          "saleRate": 99,
+          "schemeSaleRate": 99,
+          "supplier": "6923ca35385a8494efbb1da4",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69de2d1ac2b3d00e93d233b4"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c2e5c",
+        "product": "69ce43802b2deb9f9bbb7ca2",
+        "batchProduct": "69251a79496994f2855ca512",
+        "batchId": "69d33dc94ede227dce4c270b",
+        "status": [
+          "WRONG_BATCH_PRODUCT_MISMATCH",
+          "SUSPICIOUS_PRICE_MISMATCH"
+        ],
+        "inventoryData": {
+          "rawPrice": 14.5,
+          "saleRate": 15.95,
+          "schemeSaleRate": 15.95,
+          "quantity": 20,
+          "vendor": "6923ca4d385a8494efbb2712",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 89,
+          "saleRate": 99,
+          "schemeSaleRate": 99,
+          "supplier": "6923ca35385a8494efbb1da4",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69de2d1ac2b3d00e93d233b4"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c3570",
+        "product": "69ce43712b2deb9f9bbb792b",
+        "batchProduct": "69251a79496994f2855ca512",
+        "batchId": "69d33dc94ede227dce4c270b",
+        "status": [
+          "WRONG_BATCH_PRODUCT_MISMATCH",
+          "SUSPICIOUS_PRICE_MISMATCH"
+        ],
+        "inventoryData": {
+          "rawPrice": 350,
+          "saleRate": 385,
+          "schemeSaleRate": 385,
+          "quantity": 1,
+          "vendor": "69451e3d609c8b24f4a4b037",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 89,
+          "saleRate": 99,
+          "schemeSaleRate": 99,
+          "supplier": "6923ca35385a8494efbb1da4",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69e5bc23605eeba0f329dab6"
+        ]
+      },
+      {
+        "inventoryId": "69d376f0c58facb8f817aefc",
+        "product": "69ce431b2b2deb9f9bbb66eb",
+        "batchProduct": "69251a79496994f2855ca512",
+        "batchId": "69d33dc94ede227dce4c270b",
+        "status": [
+          "WRONG_BATCH_PRODUCT_MISMATCH",
+          "SUSPICIOUS_PRICE_MISMATCH"
+        ],
+        "inventoryData": {
+          "rawPrice": 61.82,
+          "saleRate": 74.8,
+          "schemeSaleRate": 74.8,
+          "quantity": 100,
+          "vendor": "69d34f4f6a90bf8f8480abf8",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 89,
+          "saleRate": 99,
+          "schemeSaleRate": 99,
+          "supplier": "6923ca35385a8494efbb1da4",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69d7910ceb7cb8ce7c0f6629"
+        ]
+      }
+    ]
+  },
+  {
+    "batchId": "69d33dd74ede227dce4c27f3",
+    "batchNumber": "E2502047",
+    "batchProduct": "69251a74496994f2855ca454",
+    "totalInventories": 2,
+    "inventories": [
+      {
+        "inventoryId": "69d33e064ede227dce4c2dca",
+        "product": "69251a74496994f2855ca454",
+        "batchProduct": "69251a74496994f2855ca454",
+        "batchId": "69d33dd74ede227dce4c27f3",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 149.21,
+          "saleRate": 164.13,
+          "schemeSaleRate": 164.13,
+          "quantity": 200,
+          "vendor": "6923ca47385a8494efbb2481",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 149.21,
+          "saleRate": 164.13,
+          "schemeSaleRate": 164.13,
+          "supplier": "6923ca47385a8494efbb2481",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69d4dfc13e87b6724e9424c9",
+          "69dcc93e55d55f91de259e86",
+          "69e0d4fdc2b3d00e932a438d"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c2de8",
+        "product": "69251a74496994f2855ca454",
+        "batchProduct": "69251a74496994f2855ca454",
+        "batchId": "69d33dd74ede227dce4c27f3",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 149.21,
+          "saleRate": 164.13,
+          "schemeSaleRate": 164.13,
+          "quantity": 200,
+          "vendor": "6923ca47385a8494efbb2481",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 149.21,
+          "saleRate": 164.13,
+          "schemeSaleRate": 164.13,
+          "supplier": "6923ca47385a8494efbb2481",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69dccc4b55d55f91de26c339",
+          "69e20c96c2b3d00e934b8f92"
+        ]
+      }
+    ]
+  },
+  {
+    "batchId": "69d33dda4ede227dce4c2826",
+    "batchNumber": ".",
+    "batchProduct": "69ce436b2b2deb9f9bbb77c4",
+    "totalInventories": 2,
+    "inventories": [
+      {
+        "inventoryId": "69d33e064ede227dce4c2e48",
+        "product": "69ce436b2b2deb9f9bbb77c4",
+        "batchProduct": "69ce436b2b2deb9f9bbb77c4",
+        "batchId": "69d33dda4ede227dce4c2826",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 155,
+          "saleRate": 170.5,
+          "schemeSaleRate": 170.5,
+          "quantity": 1,
+          "vendor": "6923ca4d385a8494efbb2712",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 155,
+          "saleRate": 170.5,
+          "schemeSaleRate": 170.5,
+          "supplier": "6923ca4d385a8494efbb2712",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69de2d1ac2b3d00e93d233b4"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c2e54",
+        "product": "69ce43622b2deb9f9bbb7617",
+        "batchProduct": "69ce436b2b2deb9f9bbb77c4",
+        "batchId": "69d33dda4ede227dce4c2826",
+        "status": [
+          "WRONG_BATCH_PRODUCT_MISMATCH",
+          "SUSPICIOUS_PRICE_MISMATCH"
+        ],
+        "inventoryData": {
+          "rawPrice": 12,
+          "saleRate": 13.2,
+          "schemeSaleRate": 13.2,
+          "quantity": 10,
+          "vendor": "6923ca4d385a8494efbb2712",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 155,
+          "saleRate": 170.5,
+          "schemeSaleRate": 170.5,
+          "supplier": "6923ca4d385a8494efbb2712",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69de2d1ac2b3d00e93d233b4"
+        ]
+      }
+    ]
+  },
+  {
+    "batchId": "69d33ddd4ede227dce4c2855",
+    "batchNumber": "2512091D",
+    "batchProduct": "69636c4f9e79681a67f96740",
+    "totalInventories": 2,
+    "inventories": [
+      {
+        "inventoryId": "69d33e064ede227dce4c2ec0",
+        "product": "69636c4f9e79681a67f96740",
+        "batchProduct": "69636c4f9e79681a67f96740",
+        "batchId": "69d33ddd4ede227dce4c2855",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 7,
+          "saleRate": 7.7,
+          "schemeSaleRate": 7.7,
+          "quantity": 10,
+          "vendor": "6923ca4d385a8494efbb273c",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 7,
+          "saleRate": 7.7,
+          "schemeSaleRate": 7.7,
+          "supplier": "6923ca4d385a8494efbb273c",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69d9faa355d55f91deedddfd"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c2eec",
+        "product": "69636c4f9e79681a67f96740",
+        "batchProduct": "69636c4f9e79681a67f96740",
+        "batchId": "69d33ddd4ede227dce4c2855",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 7,
+          "saleRate": 7.7,
+          "schemeSaleRate": 7.7,
+          "quantity": 10,
+          "vendor": "6923ca4d385a8494efbb273c",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 7,
+          "saleRate": 7.7,
+          "schemeSaleRate": 7.7,
+          "supplier": "6923ca4d385a8494efbb273c",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69e06a6dc2b3d00e9304ec55"
+        ]
+      }
+    ]
+  },
+  {
+    "batchId": "69d33ddf4ede227dce4c287d",
+    "batchNumber": "*",
+    "batchProduct": "69ce43532b2deb9f9bbb72ab",
+    "totalInventories": 2,
+    "inventories": [
+      {
+        "inventoryId": "69d33e064ede227dce4c2f4c",
+        "product": "69251a6e496994f2855ca333",
+        "batchProduct": "69ce43532b2deb9f9bbb72ab",
+        "batchId": "69d33ddf4ede227dce4c287d",
+        "status": [
+          "WRONG_BATCH_PRODUCT_MISMATCH",
+          "SUSPICIOUS_PRICE_MISMATCH"
+        ],
+        "inventoryData": {
+          "rawPrice": 1450,
+          "saleRate": 1595,
+          "schemeSaleRate": 1595,
+          "quantity": 3,
+          "vendor": "6923ca53385a8494efbb29ea",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 320,
+          "saleRate": 352,
+          "schemeSaleRate": 352,
+          "supplier": "6923ca53385a8494efbb29ea",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69df2a90c2b3d00e93e5c4ba"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c2fa8",
+        "product": "69ce43522b2deb9f9bbb7293",
+        "batchProduct": "69ce43532b2deb9f9bbb72ab",
+        "batchId": "69d33ddf4ede227dce4c287d",
+        "status": [
+          "WRONG_BATCH_PRODUCT_MISMATCH",
+          "SUSPICIOUS_PRICE_MISMATCH"
+        ],
+        "inventoryData": {
+          "rawPrice": 975,
+          "saleRate": 1072.5,
+          "schemeSaleRate": 1072.5,
+          "quantity": 2,
+          "vendor": "6923ca53385a8494efbb29ea",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 320,
+          "saleRate": 352,
+          "schemeSaleRate": 352,
+          "supplier": "6923ca53385a8494efbb29ea",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69e37de16f6c2063aa2fb9e1"
+        ]
+      }
+    ]
+  },
+  {
+    "batchId": "69d33de24ede227dce4c28b0",
+    "batchNumber": "ZLB6AD5013",
+    "batchProduct": "69251a5e496994f2855ca0b1",
+    "totalInventories": 2,
+    "inventories": [
+      {
+        "inventoryId": "69d33e064ede227dce4c30a0",
+        "product": "69251a5e496994f2855ca0b1",
+        "batchProduct": "69251a5e496994f2855ca0b1",
+        "batchId": "69d33de24ede227dce4c28b0",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 50,
+          "saleRate": 55,
+          "schemeSaleRate": 55,
+          "quantity": 128,
+          "vendor": "6923ca56385a8494efbb2b25",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 50,
+          "saleRate": 55,
+          "schemeSaleRate": 55,
+          "supplier": "6923ca56385a8494efbb2b25",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69db68d655d55f91de072e61",
+          "69de1622c2b3d00e93c56ad4",
+          "69df2a90c2b3d00e93e5c4ba"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c30a2",
+        "product": "69251a5e496994f2855ca0b1",
+        "batchProduct": "69251a5e496994f2855ca0b1",
+        "batchId": "69d33de24ede227dce4c28b0",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 50,
+          "saleRate": 55,
+          "schemeSaleRate": 55,
+          "quantity": 128,
+          "vendor": "6923ca56385a8494efbb2b25",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 50,
+          "saleRate": 55,
+          "schemeSaleRate": 55,
+          "supplier": "6923ca56385a8494efbb2b25",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69da238b55d55f91defa1a8e"
+        ]
+      }
+    ]
+  },
+  {
+    "batchId": "69d33de24ede227dce4c28b8",
+    "batchNumber": "MRD25024",
+    "batchProduct": "69251a70496994f2855ca39b",
+    "totalInventories": 2,
+    "inventories": [
+      {
+        "inventoryId": "69d33e064ede227dce4c30b2",
+        "product": "69251a70496994f2855ca39b",
+        "batchProduct": "69251a70496994f2855ca39b",
+        "batchId": "69d33de24ede227dce4c28b8",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 108.79,
+          "saleRate": 119.67,
+          "schemeSaleRate": 119.67,
+          "quantity": 5,
+          "vendor": "692429a031185c93746d91ef",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 108.79,
+          "saleRate": 119.67,
+          "schemeSaleRate": 119.67,
+          "supplier": "692429a031185c93746d91ef",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69de0ea0c2b3d00e93c1a344"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c30d2",
+        "product": "69251a70496994f2855ca39b",
+        "batchProduct": "69251a70496994f2855ca39b",
+        "batchId": "69d33de24ede227dce4c28b8",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 108.79,
+          "saleRate": 119.67,
+          "schemeSaleRate": 119.67,
+          "quantity": 5,
+          "vendor": "692429a031185c93746d91ef",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 108.79,
+          "saleRate": 119.67,
+          "schemeSaleRate": 119.67,
+          "supplier": "692429a031185c93746d91ef",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69e063eac2b3d00e9303483f"
+        ]
+      }
+    ]
+  },
+  {
+    "batchId": "69d33dea4ede227dce4c2934",
+    "batchNumber": "GTH0107A",
+    "batchProduct": "68c505d2267e3c8d0ddc2d32",
+    "totalInventories": 2,
+    "inventories": [
+      {
+        "inventoryId": "69d33e064ede227dce4c31d2",
+        "product": "68c505d2267e3c8d0ddc2d32",
+        "batchProduct": "68c505d2267e3c8d0ddc2d32",
+        "batchId": "69d33dea4ede227dce4c2934",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 128,
+          "saleRate": 140.8,
+          "schemeSaleRate": 140.8,
+          "quantity": 40,
+          "vendor": "692429a031185c93746d91ef",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 128,
+          "saleRate": 140.8,
+          "schemeSaleRate": 140.8,
+          "supplier": "692429a031185c93746d91ef",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69da239a55d55f91defa1e52",
+          "69df12b5c2b3d00e93dbd47f"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c328e",
+        "product": "68c505d2267e3c8d0ddc2d32",
+        "batchProduct": "68c505d2267e3c8d0ddc2d32",
+        "batchId": "69d33dea4ede227dce4c2934",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 128,
+          "saleRate": 140.8,
+          "schemeSaleRate": 140.8,
+          "quantity": 10,
+          "vendor": "692429a031185c93746d91ef",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 128,
+          "saleRate": 140.8,
+          "schemeSaleRate": 140.8,
+          "supplier": "692429a031185c93746d91ef",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69dddcd1c2b3d00e93ae8b2b"
+        ]
+      }
+    ]
+  },
+  {
+    "batchId": "69d33df64ede227dce4c2a0c",
+    "batchNumber": "AJX13ABA",
+    "batchProduct": "69ce43602b2deb9f9bbb75a5",
+    "totalInventories": 2,
+    "inventories": [
+      {
+        "inventoryId": "69d33e064ede227dce4c33b6",
+        "product": "69ce43602b2deb9f9bbb75a5",
+        "batchProduct": "69ce43602b2deb9f9bbb75a5",
+        "batchId": "69d33df64ede227dce4c2a0c",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 15.56,
+          "saleRate": 17.12,
+          "schemeSaleRate": 17.12,
+          "quantity": 20,
+          "vendor": "6926eff3a6f059dedd3a3c3a",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 15.56,
+          "saleRate": 17.12,
+          "schemeSaleRate": 17.12,
+          "supplier": "6926eff3a6f059dedd3a3c3a",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69e1b29fc2b3d00e932f4f3d"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c33e2",
+        "product": "69ce43602b2deb9f9bbb75a5",
+        "batchProduct": "69ce43602b2deb9f9bbb75a5",
+        "batchId": "69d33df64ede227dce4c2a0c",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 15.56,
+          "saleRate": 17.12,
+          "schemeSaleRate": 17.12,
+          "quantity": 20,
+          "vendor": "6926eff3a6f059dedd3a3c3a",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 15.56,
+          "saleRate": 17.12,
+          "schemeSaleRate": 17.12,
+          "supplier": "6926eff3a6f059dedd3a3c3a",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69e74c14605eeba0f355bed1"
+        ]
+      }
+    ]
+  },
+  {
+    "batchId": "69d33e044ede227dce4c2aff",
+    "batchNumber": "GT5A33",
+    "batchProduct": "68c505d2267e3c8d0ddc2e3f",
+    "totalInventories": 2,
+    "inventories": [
+      {
+        "inventoryId": "69d33e064ede227dce4c35ce",
+        "product": "68c505d2267e3c8d0ddc2e3f",
+        "batchProduct": "68c505d2267e3c8d0ddc2e3f",
+        "batchId": "69d33e044ede227dce4c2aff",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 160,
+          "saleRate": 176,
+          "schemeSaleRate": 176,
+          "quantity": 200,
+          "vendor": "6965f6ebb6f2a316d881c7f2",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 160,
+          "saleRate": 176,
+          "schemeSaleRate": 176,
+          "supplier": "6965f6ebb6f2a316d881c7f2",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69de0ea0c2b3d00e93c1a344",
+          "69de05bac2b3d00e93bad504",
+          "69df2a90c2b3d00e93e5c4ba",
+          "69df1dbfc2b3d00e93e039ed",
+          "69e726f8605eeba0f347c6bb"
+        ]
+      },
+      {
+        "inventoryId": "69d33e064ede227dce4c35cc",
+        "product": "68c505d2267e3c8d0ddc2e3f",
+        "batchProduct": "68c505d2267e3c8d0ddc2e3f",
+        "batchId": "69d33e044ede227dce4c2aff",
+        "status": [
+          "MATCHED"
+        ],
+        "inventoryData": {
+          "rawPrice": 160,
+          "saleRate": 176,
+          "schemeSaleRate": 176,
+          "quantity": 200,
+          "vendor": "6965f6ebb6f2a316d881c7f2",
+          "poReference": null,
+          "grnReference": null
+        },
+        "batchData": {
+          "rawPrice": 160,
+          "saleRate": 176,
+          "schemeSaleRate": 176,
+          "supplier": "6965f6ebb6f2a316d881c7f2",
+          "poReference": null,
+          "grnReference": null
+        },
+        "saleReferenceIds": [
+          "69df12b5c2b3d00e93dbd47f"
+        ]
+      }
+    ]
+  }
+]
